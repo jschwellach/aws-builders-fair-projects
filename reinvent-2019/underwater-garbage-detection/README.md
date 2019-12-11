@@ -16,7 +16,7 @@ This project is using several libraries. Please make sure you install them befor
 | Tensorflow | >=1.14 | Please refer to [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/) |
 | Python | >= 3.6.x | Please install according to your operating system |
 | Pip | same version as python | Please install according to your operating system |
-| OpenCV | | 
+| OpenCV | >= 4 | Please install according to your operating system | 
 
 ## Installation
 ### Running locally on you laptop
@@ -28,3 +28,8 @@ First we want to have the missing libraries installed, so please open a command 
 ```$ pip install -r requirements.txt```
 
 This should install all necessary libraries so that you can start with the project
+
+#### Running the inference
+To run the inference make sure you select the right webcam in the ```inference.py``` and then execute:
+
+```$ python inference.py```
