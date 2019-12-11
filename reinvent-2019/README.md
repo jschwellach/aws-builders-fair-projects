@@ -22,6 +22,7 @@ A collection of templates, sample code and documentation from the re:Invent 2019
 | [Sports Scoring using Machine Learning](sports-scoring-using-machine-learning) | Track and display the score of a Cornhole game using a camera and Amazon SageMaker |
 | [Walking Robot](walking-robot) | We use AWS RoboMaker to design, simulate and then help build a physical limbs and motors, we then use Sagemaker to help learn balance and then IoT to control and use feedback of real-world measurements to compare with the simulated data |
 | [Zombie LEGO® IoT Robot](lego-ev3-raspberry-pi-robot) | Build a LEGO® Mindstorms® EV3 Robot, with the Robot Operating System and AWS RoboMaker, AWS IoT Greengrass, Raspberry Pi, Raspberry Pi Camera and a console gaming controller |
+| [Underwater Garbage Detection](underwater-garbage-detection) | Usage of Machine Learning to clean up our oceans from Plastic and Can's |
 
 # License
 
