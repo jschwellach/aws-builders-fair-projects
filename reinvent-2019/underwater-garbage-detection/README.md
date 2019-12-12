@@ -17,6 +17,7 @@ This project is using several libraries. Please make sure you install them befor
 | Python | >= 3.6.x | Please install according to your operating system |
 | Pip | same version as python | Please install according to your operating system |
 | OpenCV | >= 4 | Please install according to your operating system | 
+| AWSIoTPythonSDK | >= 1.4.7 | Please refer to [https://pypi.org/project/AWSIoTPythonSDK/](https://pypi.org/project/AWSIoTPythonSDK/) | 
 
 ## Installation
 ### Running locally on you laptop
